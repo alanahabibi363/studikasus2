@@ -1,6 +1,6 @@
-#include<iostream>
-#include<conio.h>
-#include<fstream>
+#include <iostream>
+#include <conio.h>
+#include <fstream>
 using namespace std;
 
 class Bayar{

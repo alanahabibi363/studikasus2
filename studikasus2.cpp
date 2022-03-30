@@ -1,3 +1,8 @@
+//Maulana Yusuf Habibi (2100018200)
+//Muhammad Hafizh Syabana (2100018208)
+//Muhamad Adji Sihab K (2100018216)
+
+
 #include <iostream>
 #include <conio.h>
 #include <fstream>
